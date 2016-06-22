@@ -4,6 +4,6 @@
         [String]
         $OutputText
     )
-
+    
     Write-Output $OutputText
 }
