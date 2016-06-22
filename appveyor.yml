@@ -5,9 +5,6 @@
 skip_commits:
   message: /updated readme.*/
 
-install:
-  - cinst pester
-
 build: false
 
 test_script:
